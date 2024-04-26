@@ -1,0 +1,2 @@
+README.txt
+This is a final college project for the course ‘Unix Tools and Scripting’. The code consists of a client-server model for a fictitious shoe store, to perform client-server communication and data storage using MongoDB. Written by Connor Jones and Jaden Shum.
